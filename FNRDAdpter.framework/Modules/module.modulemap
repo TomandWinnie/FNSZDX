@@ -1,0 +1,6 @@
+framework module FNRDAdpter {
+  umbrella header "FNRDAdpter.h"
+
+  export *
+  module * { export * }
+}
